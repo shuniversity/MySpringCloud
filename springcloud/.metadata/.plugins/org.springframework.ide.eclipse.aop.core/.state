@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="microservice-eurake1"/>
+<aop-project name="microservice-zull"/>
+<aop-project name="Copy of microservice-eurake2"/>
+</aop-reference-model>

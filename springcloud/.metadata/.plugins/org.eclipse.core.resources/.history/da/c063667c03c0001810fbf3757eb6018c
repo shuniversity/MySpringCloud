@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: microservice-consumer-config-client #需要从github上读取的资源名，没有yml后缀；microservice-consumer-config-client.yml为已经长传到github的配置文件
+      profile: dev
+      label: master
+      uri: http://127.0.0.1:4001 #config的服务端地址，等config的客户端和服务端启动后，客户端去查找这个指定的config的服务端，通过服务端获取github上配置文件信息

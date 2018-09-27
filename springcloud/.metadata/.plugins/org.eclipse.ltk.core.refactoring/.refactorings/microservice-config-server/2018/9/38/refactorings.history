@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;microservice-config-server&apos;&#x0D;&#x0A;- Original project: &apos;microservice-config-server&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     microservice-config-server/src/main/java/com.lzj.springcloud&#x0D;&#x0A;     microservice-config-server/src/main/java/com.lzj.springcloud.configbean&#x0D;&#x0A;     microservice-config-server/src/main/java/com.lzj.springcloud.controller&#x0D;&#x0A;- Delete subpackages" description="Delete elements" element1="/src\/main\/java&lt;com.lzj.springcloud.controller" element2="/src\/main\/java&lt;com.lzj.springcloud.configbean" element3="/src\/main\/java&lt;com.lzj.springcloud" element4="/src\/main\/java&lt;com.lzj" element5="/src\/main\/java&lt;com" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1537604692626" subPackages="true" version="1.0"/>
+</session>

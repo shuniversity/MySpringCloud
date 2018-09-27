@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.lzj.springcloud.ConsumerApplication&apos; to &apos;FeignConsumerApplication&apos;&#x0D;&#x0A;- Original project: &apos;microservice-consumer-feign&apos;&#x0D;&#x0A;- Original element: &apos;com.lzj.springcloud.ConsumerApplication&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lzj.springcloud.FeignConsumerApplication&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ConsumerApplication&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.lzj.springcloud{ConsumerApplication.java[ConsumerApplication" matchStrategy="1" name="FeignConsumerApplication" qualified="false" references="true" similarDeclarations="false" stamp="1535793917203" textual="false" version="1.0"/>
+</session>

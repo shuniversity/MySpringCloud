@@ -1,0 +1,11 @@
+server:
+  port: 4001
+  
+spring:
+  application:
+    name: microservice-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/shuniversity/microservice-config.git

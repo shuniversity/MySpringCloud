@@ -1,0 +1,5 @@
+package com.lzj.springcloud;
+
+public class ConfigClientRest {
+
+}

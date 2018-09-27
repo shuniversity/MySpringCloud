@@ -1,0 +1,19 @@
+package com.lzj.springcloud;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ConfigClientRest {
+
+	@Value("${spring.application.name}")
+	private String applicationName;
+	
+	@RequestMapping("/config")
+	public String getConfig(){
+		String str = "application : " + applicationName;
+		System.out.println("applicationName : " + str);
+		return null;
+	}
+}

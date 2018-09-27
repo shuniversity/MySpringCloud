@@ -1,0 +1,26 @@
+server: 
+  port: 6001
+
+spring:
+  application:
+    name: microservice-zull
+eureka:
+  client:
+    service-url: 
+      defaultZone: http://eureka9003.com:9003/eureka/,http://eureka9002.com:9002/eureka/,http://eureka9001.com:9001/eureka/
+  instance: 
+    instance-id: microservice-zull6001                        #自定义服务名称信息
+    prefer-ip-address: true                                   #访问路径可以显示IP地址
+    
+zuul:
+  prefix: /MyDemo
+  ignored-services: microservicecloud-provider
+  routes:
+    mydept.serviceId: microservicecloud-provider
+    mydept.path: /provider/**
+
+info: 
+  app.name: microservice-zull
+  company.name: www.lzj.com
+  build.artifactId: microservice-zull
+  build.version: 0.0.1-SNAPSHOT

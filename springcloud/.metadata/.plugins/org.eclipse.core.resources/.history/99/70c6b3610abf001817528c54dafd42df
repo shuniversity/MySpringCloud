@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active:
+      - dev
+
+---
+server: 
+  port: 7001
+
+spring:
+  profiles: dev
+  application:
+    name: microservice-consumer-config-clent
+
+eureka:
+  client:
+    register-with-eureka: false
+    service-url: 
+      defaultZone: http://eureka9003.com:9003/eureka/,http://eureka9002.com:9002/eureka/,http://eureka9001.com:9001/eureka/

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534165032518_1" label="springcloudset" name="springcloudset">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+<item elementID="=microservice-consumer-hystrix-dashbord" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-consumer" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-consumer-feign" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-eurake2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-config-server" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-provider" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservice-parent" type="4"/>
+<item elementID="=microservice-provider3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-consumer-feign-hystrix" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-consumer-config-client" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-config-client" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-eurake1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-eurake3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-zull" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-com" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-provider-hystrix" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservice-provider2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534165010287_0" label="Window Working Set" name="Aggregate for window 1534165010287"/>
+<mruList name="springcloudset"/>
+</workingSetManager>

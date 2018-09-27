@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=microservice-provider/src\/main\/java&lt;com.lzj.springcloud.service{UserService.java[UserService" modifiers="513" timestamp="1534342601402"/>
+<typeInfo handle="=microservice-consumer/C:\/Users\/李忠建\/.m2\/repository\/org\/springframework\/boot\/spring-boot-autoconfigure\/1.5.9.RELEASE\/spring-boot-autoconfigure-1.5.9.RELEASE.jar&lt;org.springframework.boot.autoconfigure.context(ConfigurationPropertiesAutoConfiguration.class[ConfigurationPropertiesAutoConfiguration" modifiers="33" timestamp="1534255864741"/>
+<typeInfo handle="=microservice-consumer/C:\/Users\/李忠建\/.m2\/repository\/com\/netflix\/eureka\/eureka-client\/1.6.2\/eureka-client-1.6.2.jar&lt;com.netflix.discovery(EurekaClient.class[EurekaClient" modifiers="1537" timestamp="1535207250921"/>
+<typeInfo handle="=microservice-consumer-feign-hystrix/src\/main\/java&lt;com.lzj.springcloud.service{ConsumerService.java[ConsumerService" modifiers="513" timestamp="1536244235252"/>
+</typeInfoHistroy>

@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      name: microservice-consumer-config-client #需要从github上读取的资源名，没有yml后缀；microservice-consumer-config-client.yml为已经长传到github的配置文件
+      
